@@ -345,6 +345,10 @@ footer {
     .contact{
         width: 300px;
     }
+
+    .projects{
+        padding: 40px 5px;
+    }
 }
 
 @media (max-width: 470px) {
