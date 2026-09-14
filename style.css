@@ -346,10 +346,7 @@ footer {
         width: 300px;
     }
 
-    .projects{
-        padding: 40px 5px;
-        margin: 150px 0 0 0;
-    }
+    
 }
 
 @media (max-width: 470px) {
@@ -357,11 +354,15 @@ footer {
     ul {
         display: none;
     }
-}
-@media (max-width: 444px) {
 
     .cards{
         flex-direction: column;
+    }
+
+    .projects{
+        padding: 40px 5px;
+        margin: 150px auto 0 auto;
+        width: 300px;
     }
 }
 
@@ -371,9 +372,6 @@ footer {
         font-size: 18px;
     }  
     
-    .projects{
-        margin: 150px 0 0 0 ;
-    }
 
     .contact{
         width: 250px;
