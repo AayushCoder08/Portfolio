@@ -326,6 +326,15 @@ footer {
         width: 300px;
     }
 
+    .hero_img img{
+        height: 300px;
+        width: 300px;
+    }
+
+    .about{
+        margin-top: 100px;
+    }
+
     .about-img{
         display: none;
     }
